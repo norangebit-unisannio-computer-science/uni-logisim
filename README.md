@@ -1,1 +1,3 @@
 # Logisim
+
+Corso progettazione digitale.
